@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "mache-test2": "^1.0.2"
-  }
+  },
+  "gitHead": "f20fe43626a62847c0fed0bcf5c407fab089aa40"
 }

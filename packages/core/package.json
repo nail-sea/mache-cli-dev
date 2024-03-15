@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "mache-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@mache-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "f20fe43626a62847c0fed0bcf5c407fab089aa40"
 }
