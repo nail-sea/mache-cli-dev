@@ -1,6 +1,6 @@
 {
   "name": "@mache-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "mache-cli-dev core",
   "author": "nail-sea <2518907419@qq.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "@mache-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "f20fe43626a62847c0fed0bcf5c407fab089aa40"
+  "gitHead": "8eaad7d22c72e96752aa869064b2fb4f07342129"
 }
