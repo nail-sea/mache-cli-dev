@@ -22,5 +22,8 @@
   "dependencies": {
     "@mache-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "8eaad7d22c72e96752aa869064b2fb4f07342129"
+  "gitHead": "8016acbde9bac8c4bd31ea2135dac9371dacc449",
+  "publishConfig": {
+    "access": "public"
+  }
 }
