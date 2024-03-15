@@ -1,6 +1,6 @@
 {
   "name": "@mache-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "mache-cli-dev core",
   "author": "nail-sea <2518907419@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@mache-cli-dev/utils": "^1.0.3"
+    "@mache-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "8016acbde9bac8c4bd31ea2135dac9371dacc449",
   "publishConfig": {
